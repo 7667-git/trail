@@ -14,3 +14,5 @@ fs.readFile('./Files/content1.txt','utf-8',(err,data)=>{
         console.log(err,"kk")
         process.exit()
     })
+
+    console.log("Meenaaa")
